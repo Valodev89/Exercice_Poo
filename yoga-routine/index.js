@@ -11,7 +11,7 @@ let exerciceArray = [
     { pic: 8, min: 1 },
     { pic: 9, min: 1 },
 ]
-
+// Class exercice
 class Exercice {}
 
 const utils = {
