@@ -15,7 +15,11 @@ let exerciceArray = [
 class Exercice {}
 
 const utils = {
+        if () {
 
+        } else {
+            
+        }
 }
 
 const page = {
