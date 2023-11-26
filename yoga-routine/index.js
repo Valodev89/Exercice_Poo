@@ -19,7 +19,7 @@ const utils = {
 
         } else {
             
-        };
+        }
 }
 
 const page = {
